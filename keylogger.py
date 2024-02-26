@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# Author: Samrat Raj Chaudhary
+# Documentation: https://github.com/syscrafts/keylogger
 import sys
 import keyboard,os
 from threading import Timer
