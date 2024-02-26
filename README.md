@@ -6,6 +6,6 @@ I created this for my University coursework.
 ```bash
   git clone https://github.com/syscrafts/keylogger.git
   cd keylogger
-  pip3 install requirements.txt
+  pip3 install -r requirements.txt
   python3 keylogger.py
 ```
